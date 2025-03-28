@@ -1,3 +1,4 @@
+# Data science boilerplate libraries
 numpy==2.2.3
 pandas==2.2.3
 scikit-learn==1.6.1
@@ -6,3 +7,7 @@ matplotlib==3.10.1
 seaborn==0.13.2
 ipykernel==6.29.5
 pyarrow==19.0.1
+
+# NLP project specific libraries
+nltk==3.9.1
+regex==2024.11.6
