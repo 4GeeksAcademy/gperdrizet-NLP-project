@@ -9,6 +9,6 @@ scipy==1.16.1
 seaborn==0.13.2
 
 # NLP project specific libraries
-nltk
-regex
-tensoflow-cpu
+nltk==3.9.1
+regex==2025.8.29
+tensorflow-cpu==2.20.0
